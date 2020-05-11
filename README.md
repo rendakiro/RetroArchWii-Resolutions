@@ -10,3 +10,11 @@ Usando base de datos con las resoluciones de MAME se ha calculado sus proporcion
 
 ## Estado Actual
 Se han calculado 1482 juegos y se han añadido unos archivos de “Comodín” por si se me ha pasado alguno. Se han testado al azar varios juegos con resoluciones fuera de la norma, viendo que el resultado es correcto, por ello se mantendrá así, si nadie indica lo contrario :)
+
+## Nomenclaturas
+Algunos archivos cuentan con una nota adicional, esto es para avisar de que ha sido necesario realizar algún cambio de la resolución original para adaptarlo a la pantalla o la zona de dibujo
+
+* ATTENTION WARN 1 (LOW) = Se ha modificado el Horizontal.
+* ATTENTION WARN 2 (MODERATE) = Se ha adaptado el Vertical a otro más conveniente.
+* ATTENTION WARN 3 (MODERATE) = Se ha modificado el Horizontal más allá del doble.
+* ATTENTION WARN 4 (HIGH) = Se ha modificado Vertical, Horizontal y posiblemente se han creado márgenes.
